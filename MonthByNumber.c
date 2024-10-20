@@ -30,6 +30,5 @@ int main(){
     }else{
         printf("\nInvalid number of Month.");
     }
-    
-    
+    return 0;
 }
